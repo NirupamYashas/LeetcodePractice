@@ -1,0 +1,14 @@
+Stack Questions:
+
+(1)* Nearest Greater to left
+(2)* Nearest Greater to right -> Next Largest Element
+(3)* Nearest Smaller to left -> Nearest smaller Element
+(4)* Nearest Smaller to right
+(5)* Stock span problem
+(6)* Maximum area of histogram
+(7)* Maximum area of rectangle in binary matrix
+(8)** Rain water tapping
+(9)** Implementing a min stack (With extra space and without extra space)
+(10)** Implement stack using heap
+(11)** The celebrity problem
+(12)** Iterative TOH
